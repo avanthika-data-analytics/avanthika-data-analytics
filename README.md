@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Avanthika 👋
 
-<!--
-**avanthika-data-analytics/avanthika-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-Here are some ideas to get you started:
+I'm a Computer Science postgraduate, Currently building my career in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to identify trends, generate insights,
+and create dashboards that help communicate business information clearly.
+
+## 🛠️ Skills
+
+- SQL / MySQL
+- Power BI
+- Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Statistics
+- Data Visualization
+
+## 📊 Featured Projects
+
+### HR Analytics Dashboard
+Power BI project analyzing workforce demographics, hiring trends,
+employee distribution, and HR metrics.
+
+### SQL Data Analysis
+MySQL project covering filtering, aggregation, joins,
+subqueries, and window functions.
+
+### Supply Chain Performance Analytics
+Power BI project analyzing revenue, product sales,
+supplier performance, availability, costs, and quality.
+
+## 🎓 Education
+
+M.Sc. Computer Science
+
+## 📫 Connect With Me
+ 
+- LinkedIn: https://www.linkedin.com/in/avanthika-13-data/
